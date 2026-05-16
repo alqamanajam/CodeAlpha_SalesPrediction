@@ -15,10 +15,10 @@ CodeAlpha_SalesPrediction/
 
 - **sales_prediction.py:** `Main analysis script`
 - **Advertising.csv:**        `Input dataset`
-- **01_sales_exploration.png:**  `EDA visualizations`
-- **02_sales_correlation.png:**   `Correlation heatmap`
-- **03_sales_predictions_comparison.png:** `Model predictions`
-- **04_sales_feature_importance.png**  `Feature importance`
+- **sales_exploration.png:**  `EDA visualizations`
+- **sales_correlation.png:**   `Correlation heatmap`
+- **sales_predictions_comparison.png:** `Model predictions`
+- **sales_feature_importance.png**  `Feature importance`
 
 ## Features
 - **Exploratory Data Analysis (EDA):** Distribution plots, scatter plots with trend lines
