@@ -13,12 +13,12 @@ A machine learning project that predicts sales based on advertising spend across
 ## Project Structure
 CodeAlpha_SalesPrediction/
 
--├── sales_prediction.py          # Main analysis script
--├── Advertising.csv              # Input dataset
--├── 01_sales_exploration.png     # EDA visualizations
--├── 02_sales_correlation.png     # Correlation heatmap
--├── 03_sales_predictions_comparison.png  # Model predictions
--└── 04_sales_feature_importance.png      # Feature importance
+- **sales_prediction.py:** `Main analysis script`
+- **Advertising.csv:**        `Input dataset`
+- **01_sales_exploration.png:**  `EDA visualizations`
+- **02_sales_correlation.png:**   `Correlation heatmap`
+- **03_sales_predictions_comparison.png:** `Model predictions`
+- **04_sales_feature_importance.png**  `Feature importance`
 
 ## Features
 - **Exploratory Data Analysis (EDA):** Distribution plots, scatter plots with trend lines
@@ -50,7 +50,7 @@ cd CodeAlpha_SalesPrediction
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Run analysis
-python sales_prediction.py
+python Sales_prediction.py
 ```
 
 ## Output
